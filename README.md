@@ -11,7 +11,7 @@ console.log(`Hi! My name is ${name}. I'm ${description} studying ${major} at the
 // Engineering at the University of Technology Sydney.
 ```
 
-### Languages and Tools:
+### Languages and Tools
 
 Here's a list of all the things I use and love everyday:
 
@@ -24,7 +24,7 @@ Here's a list of all the things I use and love everyday:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql" title="graphql"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" title="terminal"></code>
 
-### Contact
+### Contact Me
 
 You can reach me through any of the following below:
 - 📫 Email: [taseen00.islam@gmail.com][email]
