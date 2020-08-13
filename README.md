@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+My named is Ta-Seen Islam. I'm a tech enthusiast studying software engineering
+at the University of Technology Sydney.
+
+You can reach me through any of the following below:
+- 📫 Email: taseen00.islam@gmail.com
+- 👔 LinkedIn: linkedin.com/in/taseenislam
 
 <!--
 **tahscenery/tahscenery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
