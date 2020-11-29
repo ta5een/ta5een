@@ -11,6 +11,15 @@ console.log(`Hi! My name is ${name}. I'm ${description} studying ${major} at ${u
 // Software Engineering at the University of Technology Sydney.
 ```
 
+### Contact Me
+
+You can reach me through any of the following below:
+- 📫 Email: [taseen00.islam@gmail.com][email]
+- 👔 LinkedIn: [linkedin.com/in/taseenislam][linkedin]
+
+[email]: mailto:taseen00.islam@gmail.com
+[linkedin]: https://linkedin.com/in/taseenislam
+
 ### Languages and Tools
 
 Here's a list of technologies I use and love everyday:
@@ -24,11 +33,4 @@ Here's a list of technologies I use and love everyday:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql" title="graphql"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" title="terminal"></code>
 
-### Contact Me
-
-You can reach me through any of the following below:
-- 📫 Email: [taseen00.islam@gmail.com][email]
-- 👔 LinkedIn: [linkedin.com/in/taseenislam][linkedin]
-
-[email]: mailto:taseen00.islam@gmail.com
-[linkedin]: https://linkedin.com/in/taseenislam
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahscenery&layout=compact"/>
