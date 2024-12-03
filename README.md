@@ -6,10 +6,9 @@ I'm Ta-Seen, a software engineer based in Sydney, Australia.
 
 You can reach out to me through any of the following:
 
-- 📫 Email: [hello@taseen.dev][email]
+- 📫 Email: `hello[at]taseen[dot]dev`
 - 👔 LinkedIn: [linkedin.com/in/taseenislam][linkedin]
 
-[email]: mailto:hello@taseen.dev
 [linkedin]: https://linkedin.com/in/taseenislam
 
 ### 🛠️ Languages and Tools
